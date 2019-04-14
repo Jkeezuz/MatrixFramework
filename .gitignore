@@ -1,0 +1,9 @@
+/Debug/
+/sources/Debug/
+.sln
+.vs/
+pch.h
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
