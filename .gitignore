@@ -1,5 +1,6 @@
 /Debug/
 /sources/Debug/
+/sources/x64/Debug/
 .sln
 .vs/
 pch.h
@@ -7,3 +8,4 @@ pch.h
 *.vcxproj.filters
 *.vcxproj.user
 *.sln
+x64/Debug
